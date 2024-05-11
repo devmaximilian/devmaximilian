@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer from Sweden that loves contributing to open source projects and sharing knowledge with others.
+I'm a pragmatic problem solver with a passion for all things technology related. Always eager to learn and exchange knowledge with others. Experienced in a broad set of technology related areas.
 
 <!--
 **devmaximilian/devmaximilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
